@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "First Project ( Madlib )", "First Project ( Madlib ).pyproj", "{8DDDE1D8-C4CC-4590-8597-7C991D346C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DDDE1D8-C4CC-4590-8597-7C991D346C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDDE1D8-C4CC-4590-8597-7C991D346C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1211C1B4-CFB7-454B-AB18-C927FC629540}
+	EndGlobalSection
+EndGlobal
