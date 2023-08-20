@@ -1,2 +1,2 @@
 # Python_project
-just a repository made while learning Python
+project made while learning Python
